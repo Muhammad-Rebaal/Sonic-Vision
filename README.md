@@ -24,7 +24,7 @@ Using a Convolutional Neural Network (CNN) trained on Mel Spectrograms, this app
 
 ---
 
-## 📸 Screeshots
+## 📸 Screenshots
 
 ### 1. Home & Audio Input , Spectrogram Analysis
 ![Home Screen](screenshots/1.png)
